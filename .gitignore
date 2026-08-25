@@ -1,0 +1,28 @@
+# Environment & Secrets
+.env
+*.env
+.streamlit/secrets.toml
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Python & Cache Files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Vector Database & Logs
+faiss_index_storage/
+app.log
+*.log
+temp/
+
+# IDE & OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
