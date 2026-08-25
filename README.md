@@ -1,5 +1,9 @@
 # 📚 Multi-PDF RAG Chatbot
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pdf-rag-chatbot-g53vwekltbrys3cknewxth.streamlit.app)
+
+🚀 **Live Demo:** [https://pdf-rag-chatbot-g53vwekltbrys3cknewxth.streamlit.app](https://pdf-rag-chatbot-g53vwekltbrys3cknewxth.streamlit.app)
+
 An enterprise-grade **Retrieval-Augmented Generation (RAG)** application designed to extract, index, and query information across multiple PDF documents using state-of-the-art Large Language Models (LLMs) and Vector Embeddings.
 
 Developed by **ANIL H**.
